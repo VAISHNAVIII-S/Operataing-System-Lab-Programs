@@ -108,6 +108,3 @@ This repository contains a collection of 12 lab programs related to the Operatin
 - Producer – Consumer problem
 - Reader’s writers’ problem
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

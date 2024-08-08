@@ -6,10 +6,7 @@ read n1
 echo "Enter the upper bound: "
 read n2
 
-# Ensure n1 is at least 2 because there are no prime numbers less than 2
-if [ "$n1" -lt 2 ]; then
-    n1=2
-fi
+
 
 for ((i=n1; i<=n2; i++))
 do
